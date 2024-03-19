@@ -1,1 +1,1 @@
-function calculatenumbers(var1, var1)
+function calculateNumbers(var1, var2)
